@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Quest8", "Quest8\Quest8.pyproj", "{EBE9D0CC-EE6E-4FB7-AF92-05E282102B44}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "donut", "donut\donut.pyproj", "{307AB852-D548-4E43-AB96-4CCCD65B7BE7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "donut4", "donut4\donut4.pyproj", "{EE059E40-D6F8-452B-91CB-D9F4CACB7AF0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "donyt90", "donyt90\donyt90.pyproj", "{608AA15A-EDB9-45C5-BC55-6CB29133252F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE9D0CC-EE6E-4FB7-AF92-05E282102B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE9D0CC-EE6E-4FB7-AF92-05E282102B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307AB852-D548-4E43-AB96-4CCCD65B7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307AB852-D548-4E43-AB96-4CCCD65B7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE059E40-D6F8-452B-91CB-D9F4CACB7AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE059E40-D6F8-452B-91CB-D9F4CACB7AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608AA15A-EDB9-45C5-BC55-6CB29133252F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608AA15A-EDB9-45C5-BC55-6CB29133252F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {921A5DF4-A9D1-47DA-92DF-7DD8F5D5A528}
+	EndGlobalSection
+EndGlobal
